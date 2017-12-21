@@ -1,0 +1,23 @@
+{
+  "name": "binary-switch",
+  "version": "1.0.0",
+  "description": "on or off set in binary bit, but saved in decimal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyqqk/binarySwitch.git"
+  },
+  "keywords": [
+    "binary",
+    "bit"
+  ],
+  "author": "luckyqqk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luckyqqk/binarySwitch/issues"
+  },
+  "homepage": "https://github.com/luckyqqk/binarySwitch#readme"
+}
